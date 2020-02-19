@@ -19,7 +19,13 @@
 */
   
 
-//Code Here
+let user = {
+  username: String,
+  email: String,
+  getUsername: function(){
+    
+  }
+}
 
 
 
